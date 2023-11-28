@@ -13,6 +13,13 @@
       "url": "xxxxxxxxxxxxxxx",
       "thumnail": "@/assets/27974969_s.jpg",
       "description": "しかし、タイヤがパンクしやすい、衝撃吸収が弱い、オフロードには不向きなどのデメリットもあります"
+    },
+    {
+      "id": 3,
+      "title": "Vue.jsの公式ドキュメンテーション",
+      "url": "xxxxxxxxxxxxxxx",
+      "thumnail": "@/assets/27974969_s.jpg",
+      "description": "しかし、タイヤがパンクしやすい、衝撃吸収が弱い、オフロードには不向きなどのデメリットもあります"
     }
   ]
 }
